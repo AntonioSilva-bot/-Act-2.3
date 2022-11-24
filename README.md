@@ -23,5 +23,9 @@ Para esta actividad se tuvo que desarrollar un programa en C usando OpenMP que r
 
 Actividad 2.2
 Para la actividad 2.2 se tuvo que realizar un gif usando dos diferentes imágenes (<700 pixeles por lado y >2000 pixeles por lado) donde se realizó el efecto de desenfoque y rotación de la imagen. Debe de paralelizar la tarea y compara el tiempo de ejecución con respecto a la tarea realizada sin el uso de threads. Como resultado de su proceso, debe generar 2 archivos .gif (usando algún servicio en la red), con los archivos generados. Al menos 20 imágenes dentro de cada .gif. Deberá entregar un reporte con los resultados obtenidos y el código empleado para las pruebas
+Resultados de la computadora con un razen 3/12 de ram
 
+![imagen](https://user-images.githubusercontent.com/57539193/203860276-cde72c3e-dbd4-4a43-8c40-fae18ddbaa8a.png)
+
+Resultados de SSH en el navgador
 ![imagen](https://user-images.githubusercontent.com/57539193/203858850-7bc1770b-7550-4f4d-b739-5300e0bd59aa.png)
