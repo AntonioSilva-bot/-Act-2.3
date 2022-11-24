@@ -23,7 +23,7 @@ Resultados de SSH en el navgador
 
 ![imagen](https://user-images.githubusercontent.com/57539193/203856248-e9750504-926a-4815-80da-da97061916ca.png)
 
-'''c++
+```cpp
 #include <stdio.h>
 #include <omp.h>
 #include <math.h>
@@ -98,7 +98,7 @@ void iteracion(int N, FILE *fptr)
           }
          }
 
-'''
+```
 
 #Actividad 2.1
 Para esta actividad se tuvo que desarrollar un programa en C usando OpenMP que realice el efecto espejo con 20 diferentes imagenes de más de 2000 pixeles por lado.
