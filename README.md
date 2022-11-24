@@ -33,6 +33,8 @@ Resultados de la computadora con un razen 3/12 de ram
 
 ![Captura de pantalla 2022-11-24 144211](https://user-images.githubusercontent.com/57539193/203860751-aba61a64-3427-442a-a37f-a152240afbec.png)
 
+![Captura de pantalla 2022-11-24 144211](https://user-images.githubusercontent.com/57539193/203860785-deebafb0-149d-4ca5-b9e6-d94c910ba54c.png)
+
 Resultados de SSH en el navgador
 
 ![imagen](https://user-images.githubusercontent.com/57539193/203858850-7bc1770b-7550-4f4d-b739-5300e0bd59aa.png)
