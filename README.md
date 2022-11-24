@@ -31,8 +31,6 @@ Para la actividad 2.2 se tuvo que realizar un gif usando dos diferentes imágene
 
 Resultados de la computadora con un razen 3/12 de ram
 
-![Captura de pantalla 2022-11-24 144211](https://user-images.githubusercontent.com/57539193/203860751-aba61a64-3427-442a-a37f-a152240afbec.png)
-
 ![Captura de pantalla 2022-11-24 144211](https://user-images.githubusercontent.com/57539193/203860785-deebafb0-149d-4ca5-b9e6-d94c910ba54c.png)
 
 Resultados de SSH en el navgador
