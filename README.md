@@ -25,6 +25,10 @@ Resultados de SSH en el navgador
 
 Actividad 2.1
 Para esta actividad se tuvo que desarrollar un programa en C usando OpenMP que realice el efecto espejo con 20 diferentes imagenes de más de 2000 pixeles por lado.
+La primera imagen corresponde a la imagen invertida por la computadora y la segunda correspode a el servicio en la nube
+
+![imagen](https://user-images.githubusercontent.com/57539193/203866074-f38cae96-2e8f-4116-89c7-c769fb1c9c4d.png)
+
 
 Actividad 2.2
 Para la actividad 2.2 se tuvo que realizar un gif usando dos diferentes imágenes (<700 pixeles por lado y >2000 pixeles por lado) donde se realizó el efecto de desenfoque y rotación de la imagen. Debe de paralelizar la tarea y compara el tiempo de ejecución con respecto a la tarea realizada sin el uso de threads. Como resultado de su proceso, debe generar 2 archivos .gif (usando algún servicio en la red), con los archivos generados. Al menos 20 imágenes dentro de cada .gif. Deberá entregar un reporte con los resultados obtenidos y el código empleado para las pruebas
