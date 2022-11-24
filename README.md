@@ -15,3 +15,7 @@ Actividad 1.2
 Usando paralelización a nivel de tareas en C, determine el número óptimo de puntos a calcular para la solución numérica de una ecuación diferencial de primer orden en un rango determinado. Ocupe al menos dos diferentes ecuaciones para demostrar la eficiencia de su código.
 
 
+
+![imagen](https://user-images.githubusercontent.com/57539193/203855398-b8b60fe3-27d9-456d-acba-78c57466007f.png)
+
+
