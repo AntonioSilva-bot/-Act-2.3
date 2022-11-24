@@ -13,3 +13,5 @@ Resultados de SSH en el navgador
 
 Actividad 1.2
 Usando paralelización a nivel de tareas en C, determine el número óptimo de puntos a calcular para la solución numérica de una ecuación diferencial de primer orden en un rango determinado. Ocupe al menos dos diferentes ecuaciones para demostrar la eficiencia de su código.
+
+
