@@ -13,8 +13,11 @@ Resultados de SSH en el navgador
 
 Actividad 1.2
 Usando paralelización a nivel de tareas en C, determine el número óptimo de puntos a calcular para la solución numérica de una ecuación diferencial de primer orden en un rango determinado. Ocupe al menos dos diferentes ecuaciones para demostrar la eficiencia de su código.
+Resultados de la computadora con un razen 3/12 de ram
 
 ![imagen](https://user-images.githubusercontent.com/57539193/203856276-faa2336c-b075-4d02-9316-659aa85f71f3.png)
+
+Resultados de SSH en el navgador
 
 ![imagen](https://user-images.githubusercontent.com/57539193/203856248-e9750504-926a-4815-80da-da97061916ca.png)
 
@@ -23,8 +26,8 @@ Para esta actividad se tuvo que desarrollar un programa en C usando OpenMP que r
 
 Actividad 2.2
 Para la actividad 2.2 se tuvo que realizar un gif usando dos diferentes imágenes (<700 pixeles por lado y >2000 pixeles por lado) donde se realizó el efecto de desenfoque y rotación de la imagen. Debe de paralelizar la tarea y compara el tiempo de ejecución con respecto a la tarea realizada sin el uso de threads. Como resultado de su proceso, debe generar 2 archivos .gif (usando algún servicio en la red), con los archivos generados. Al menos 20 imágenes dentro de cada .gif. Deberá entregar un reporte con los resultados obtenidos y el código empleado para las pruebas
-Resultados de la computadora con un razen 3/12 de ram
 
+Resultados de la computadora con un razen 3/12 de ram
 
 ![imagen](https://user-images.githubusercontent.com/57539193/203860276-cde72c3e-dbd4-4a43-8c40-fae18ddbaa8a.png)
 
