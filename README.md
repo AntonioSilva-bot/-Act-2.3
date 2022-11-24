@@ -1,7 +1,4 @@
 # Act-2.3
 
-Resultados de la primera actividad la cual consistía en 
+Resultados de la primera actividad la cual consistía en determinar el speedup para el programa del cálculo de con 4, 15, 20, 35,50,100,150 threads
 
-
-
-![imagen](https://user-images.githubusercontent.com/57539193/203846564-2864f4ea-74a7-420e-9f55-598077630756.png)
