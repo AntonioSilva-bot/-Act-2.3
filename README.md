@@ -30,6 +30,10 @@ La primera imagen corresponde a la imagen invertida por la computadora y la segu
 ![imagen](https://user-images.githubusercontent.com/57539193/203866074-f38cae96-2e8f-4116-89c7-c769fb1c9c4d.png)
 
 
+![f5](https://user-images.githubusercontent.com/57539193/203866305-fb671d3d-fb2a-4946-b6e4-4fb3bdc56fdd.jpg)
+
+![f5_1](https://user-images.githubusercontent.com/57539193/203866350-62b6645d-7aef-4ef0-94a6-d428e6906efc.jpg)
+
 Actividad 2.2
 Para la actividad 2.2 se tuvo que realizar un gif usando dos diferentes imágenes (<700 pixeles por lado y >2000 pixeles por lado) donde se realizó el efecto de desenfoque y rotación de la imagen. Debe de paralelizar la tarea y compara el tiempo de ejecución con respecto a la tarea realizada sin el uso de threads. Como resultado de su proceso, debe generar 2 archivos .gif (usando algún servicio en la red), con los archivos generados. Al menos 20 imágenes dentro de cada .gif. Deberá entregar un reporte con los resultados obtenidos y el código empleado para las pruebas
 
