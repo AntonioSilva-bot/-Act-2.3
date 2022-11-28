@@ -517,4 +517,9 @@ int main()
 }
 '''
 
+Conclusión
 
+En esta actividad tuvimos que utilizar el servidor en la nube de google, para esto tuvimos que crearnos una cuenta y compilar los códigos hechos en la clase y fuera de esta.
+Las diferencias obtenidas se ven al momento de compilar los códigos ya que mayormente los tiempos de ejecución fueron más rapidos en la nube debido a que la única actividad que se está corriendo es la que nosotros ejecutamos, mientras que en el dispositivo que tenemos la velocidad de procesamiento es más lenta debido a que existen procesos en segundo plano los cuales entorpecen el rendimiento de las actividades que queramos ejecutar.
+Los tiempos obtenidos en este caso podemos ver que no fueron muy grandes ya que el equipo utilizado contaba con suficiente memoria ram para poder acercarse un poco al 
+rendimiento del servicio en la nube, sin embargo existen mejores equipos los cuales podrían superar la velocidad de procesamiento de las tareas ejecutadas en la nube.
